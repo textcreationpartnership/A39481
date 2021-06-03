@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rates of the excise and new-impost set and imposed by Parliament on the severall commodities imported, hereafter mentioned, to be paid and collected from the 21st. day of December 1649.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39481</idno><idno type="EEBO-CITATION">19637719</idno>
+  <idno type="VID">109243</idno>
+  <idno type="EEBO-PROQUEST">2240862747</idno>
+  
+            <idno type="STC">Wing E923</idno>
+            <idno type="STC">ESTC R41127</idno>
+            <idno type="OCLC">19637719</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A39481)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109243)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1685:49)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rates of the excise and new-impost set and imposed by Parliament on the severall commodities imported, hereafter mentioned, to be paid and collected from the 21st. day of December 1649.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes and T. Newcomb,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Die veneris 21. Decembris, 1649. Hen. Scobell. Cleric. Parliament."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Internal revenue law --  Great Britain.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109243:1"/>
+            <p>THE RATES OF THE EXCISE AND NEW-IMPOST</p>
+            <p>Set and imposed by Parliament on the severall Commodities imported, hereafter mentioned, to be paid and Collected from the 21<seg rend="sup">st</seg>, day of <hi>December</hi> 1649.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="Parliamentary_order">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Veneris</hi> 21. <hi>Decembris,</hi> 1649</date>
+                           </dateline>
+                        </opener>
+                        <p> </p>
+                        <closer>
+                           <signed>Hen. Scobell. <hi>Cleric. Parliament.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>Richard Cotes</hi> and <hi>T. Newcomb.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="table_of_tax_rates">
+            <pb facs="tcp:109243:2"/>
+            <pb n="3" facs="tcp:109243:2"/>
+            <head>The Rates of the Excise and New Impost set and imposed by Parliament on the severall Commodities imported, &amp;c.</head>
+            <p>
+               <table>
+                  <head>
+                     <date>Die Veneris <hi>21.</hi> Decembris, <hi>1649.</hi>
+                     </date>
+                  </head>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved upon the Question by the Parliament.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <seg rend="decorInit">T</seg>Hat all Tobacco which is not of English Plantations, as well al<g ref="char:EOLhyphen"/>ready imported having not paid Excise, as hereafter to be impor<g ref="char:EOLhyphen"/>ted, shall pay <hi>per</hi> pound weight two shillings Excise to bee paid by the first buyer thereof from the Merchant or Importer</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all Tobacco of the English Plantations, as well already imported not having paid Excise, as hereafter to be imported in English ships or vessels, shall pay four pence a pound weight, to be paid by the first buyer thereof from the Mer<g ref="char:EOLhyphen"/>chant or Importer.</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all Tobacco of the English Plantations, as well already imported which hath not paid Ex<g ref="char:EOLhyphen"/>cise, as hereafter to be imported in forreign ships or vessels, shall pay six pence <hi>per</hi> pound weight, to be paid by the first buyer thereof from the Merchant or Importer.</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <pb n="4" facs="tcp:109243:3"/>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>That all Pepper as well already imported into this Nation immediately from <hi>India,</hi> which hath not paid the Excise, as which shall hereafter be imported immediately from <hi>India,</hi> shall pay three pence in the pound weight for Excise, to be paid by the first buyer thereof from the Merchant or Importer.</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all Pepper as well already imported not immediately brought from <hi>India,</hi> which hath not paid Excise, as that shall hereafter be imported being not immediately brought from <hi>India,</hi> shall pay four pence <hi>per</hi> pound weight for Excise, to be paid by the first buyer thereof from the Mer<g ref="char:EOLhyphen"/>chant or Importer.</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all refined Sugars double or single in the Loafe, as well already imported which hath not paid Excise, as which shall be hereafter imported shall pay <hi>per</hi> pound weight six pence, to be paid by the first buyer thereof from the Merchant or Importer.</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all white Sugars of the growth of Eng<g ref="char:EOLhyphen"/>lish plantations, as well which are already im<g ref="char:EOLhyphen"/>ported not having paid the Excise, as which shall hereafter be imported, shall pay a pound weight three pence, to be paid by the first buyer thereof from the Merchant or Importer.</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <pb n="5" facs="tcp:109243:3"/>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved,</hi> &amp;c.</cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>That all other Sugars under Whites from Eng<g ref="char:EOLhyphen"/>lish Plantations, as well which are already impor<g ref="char:EOLhyphen"/>ted not having paid Excise, as which shall hereaf<g ref="char:EOLhyphen"/>ter be imported; shall pay <hi>per</hi> pound weight two pence, to be paid by the first buyer thereof from the Merchant or Importer.</cell>
+                     <cell>00:</cell>
+                     <cell>00:</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved,</hi> &amp;c.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all White Sugars from other places, as well which are already imported not having paid Excise, as which shall hereafter be imported, shall pay <hi>per</hi> pound weight three pence half peny, to be paid by the first buyer thereof from the Mer<g ref="char:EOLhyphen"/>chant or Importer.</cell>
+                     <cell>00:</cell>
+                     <cell>00:</cell>
+                     <cell>03:</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved,</hi> &amp;c.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all other Sugars under Whites, as well <hi>Muscovadoes</hi> as others, which come from other places, as well already imported not having paid Excise, as which shall hereafter be imported, shall pay <hi>per</hi> pound weight two pence half peny, to be paid by the first buyer thereof from the Merchant or Importer.</cell>
+                     <cell>00:</cell>
+                     <cell>00:</cell>
+                     <cell>02:</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved,</hi> &amp;c.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all <hi>Candy</hi> white Sugar, as well which are already imported not having paid Excise, as which shall hereafter be imported, shall pay <hi>per</hi> pound weight for Excise eight pence, to be paid by the first buyer from the Merchant or Importer.</cell>
+                     <cell>00:</cell>
+                     <cell>00:</cell>
+                     <cell>08</cell>
+                  </row>
+                  <pb n="6" facs="tcp:109243:4"/>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved,</hi> &amp;c.</cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>That all <hi>Candy</hi> brown Sugar, as well which are already imported not having paid Excise, as which shall hereafter be imported, shall pay <hi>per</hi> pound weight for Excise six pence, to be paid by the first buyer thereof from the Merchant or Importer.</cell>
+                     <cell>00:</cell>
+                     <cell>00:</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved,</hi> &amp;c.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all other Grocery-wares not herein for<g ref="char:EOLhyphen"/>merly mentioned, as well which are already im<g ref="char:EOLhyphen"/>ported not having paid Excise, as which shall here<g ref="char:EOLhyphen"/>after be imported, shall pay after the rate of five pounds <hi>per cent'</hi> according to the values set upon them in the book of Rates of Merchan<g ref="char:EOLhyphen"/>dizes, to be paid by the first buyer thereof from the Merchant or Importer.</cell>
+                     <cell>05:</cell>
+                     <cell>00:</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>per Cent'</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved,</hi> &amp;c.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all Drugs, as well already imported not having paid the Excise, as which shall hereafter be imported, shall pay after the rate of five pounds <hi>per cent',</hi> according to the values set upon them in the said book of Rates, to be paid by the first buy<g ref="char:EOLhyphen"/>er thereof from the Merchant or Importer.</cell>
+                     <cell>05:</cell>
+                     <cell>00:</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>per Cent'</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved,</hi> &amp;c.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all Mercery-wares, as well which are al<g ref="char:EOLhyphen"/>ready imported not having paid the Excise, as which shall hereafter be imported, shall pay after the rate of seven pounds ten shillings <hi>per cent',</hi> ac<g ref="char:EOLhyphen"/>cording to the values set upon them in the said book of Rates, to be paid by the first buyer there<g ref="char:EOLhyphen"/>of from the Merchant or Importer.</cell>
+                     <cell>70:</cell>
+                     <cell>10:</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>per Cent'</hi>
+                     </cell>
+                  </row>
+                  <pb n="7" facs="tcp:109243:4"/>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved,</hi> &amp;c.</cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>That all Raw-Silk as well which are already imported not having paid the Excise as which shall hereafter be imported, shall pay after the rate of five pounds <hi>per cent.</hi> according to the values set upon them in the said book of Rates to be paid by the first buyer thereof from the Merchant or Importer.</cell>
+                     <cell>05:</cell>
+                     <cell>00:</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>per Cent'</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved,</hi> &amp;c.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all Silks in the Gums ready thrown, as well which are already Imported not having paid Excise, as which shall hereafter be imported, shall pay after the rate of seven pounds ten shillings <hi>per cent'</hi> according to the values set upon them in the said book of Rates; to be paid by the first buy<g ref="char:EOLhyphen"/>er thereof from the Merchant or Importer.</cell>
+                     <cell>07:</cell>
+                     <cell>10:</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>per Cent'</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved,</hi> &amp;c.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all other Silks Dyed, as well which are al<g ref="char:EOLhyphen"/>ready imported not having paid Excise, as which shall hereafter be imported, shall pay after the rate of seven pounds and ten shillings <hi>per cent'</hi> accor<g ref="char:EOLhyphen"/>ding to the values set upon them in the said book of Rates; to be paid by the first buyer therof from the Merchant or Importer.</cell>
+                     <cell>07:</cell>
+                     <cell>10:</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>per Cent'</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved,</hi> &amp;c.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all Saltry Wares as well which are alrea<g ref="char:EOLhyphen"/>dy imported not having paid Excise, as which shall hereafter be imported, shall pay after the rate of seven pounds ten shillings <hi>per cent'</hi> according to the values set upon them in the said book of Rates, to be paid by the first buyer thereof from the Merchant or Importer.</cell>
+                     <cell>07:</cell>
+                     <cell>10:</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>per Cent'</hi>
+                     </cell>
+                  </row>
+                  <pb n="8" facs="tcp:109243:5"/>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved,</hi> &amp;c.</cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>That all Linnen fine and course, as well already imported not having paid Excise, as which shall hereafter be imported, shall pay after the rate of five pounds <hi>per cent'</hi> according to the values set upon them, in the said book of Rates, to be paid by the first buyer thereof from the Merchant or Importer.</cell>
+                     <cell>05:</cell>
+                     <cell>00:</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>per Cent'</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved,</hi> &amp;c.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all Upholstery, Habberdashery, Sope, Paper, Skins, Leather, Glasses, and Earthen-ware, as well already imported, not having paid Excise, as which shall hereafter be imported, shall pay af<g ref="char:EOLhyphen"/>ter the rate of five pounds <hi>per cent'</hi> according to the values set upon them in the said book of Rates, to be paid by the first buyer thereof from the Merchant or Importer.</cell>
+                     <cell>05:</cell>
+                     <cell>00:</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>per Cent'</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved,</hi> &amp;c.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all Spirits imported made of French-Wines, called Brand-Wine, as well which are al<g ref="char:EOLhyphen"/>ready imported, not having paid Excise, as which shall hereafter be imported, shall pay after the rate of four pence <hi>per</hi> Gallon, to be paid by the first buyer thereof from the Merchant or Impor<g ref="char:EOLhyphen"/>ter.</cell>
+                     <cell>00:</cell>
+                     <cell>00:</cell>
+                     <cell>04</cell>
+                  </row>
+                  <pb n="9" facs="tcp:109243:5"/>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>That all forreign Spirits, and domestick, frau<g ref="char:EOLhyphen"/>dulently sold in stead of <hi>Aqua vitae</hi> or Strong-water, shall pay One shilling <hi>per</hi> Gallon</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all Strong-water perfectly made, as well already imported, not having paid Excise, as which shall hereafter be imported, shall pay after the rate of One shilling <hi>per</hi> Gallon, to be paid by the first Buyer thereof from the Merchant or Importer</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That for every Tonne of Wines, as wel already imported, not having paid the Excise, as which hereafter shall be imported, shall be paid Five pounds for Excise, &amp; so after that rate for a grea<g ref="char:EOLhyphen"/>ter or lesser quantity, the same to be paid by the first buyer thereof from the merchant or importer</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all forreign Salt, as wel already imported, which hath not paid Excise, as which shall be hereafter imported shall pay three half-pence upon every Gallon, to be paid by the first Buyer of such Salt</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>01 ½</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all Salt made or to be made within <hi>Eng<g ref="char:EOLhyphen"/>land, Wales,</hi> or Town of <hi>Berwick</hi> which is or shall be shipped or conveyed by water, shall pay One half-penny upon every Gallon, to bee paid by the first Buyer of such Salt, at the place of lan<g ref="char:EOLhyphen"/>ding or unloading thereof</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00 ½</cell>
+                  </row>
+                  <pb n="10" facs="tcp:109243:6"/>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>That all other Salt made or to be made within <hi>England, Walks,</hi> or towne of <hi>Berwick,</hi> and not shipped or conveyed by water, shall pay One halfe-penny upon every Gallon, to be paid by the first Buyer of such Salt upon the first delivery thereof</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00 ½</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all Salt upon Salt that is made of Salt, within <hi>England, Wales,</hi> or town of <hi>Berwick,</hi> which hath once paid Excise, shall pay One farthing upon every Gallon, to be paid by the maker of such Salt upon Salt, before such time as the same shall be put to sale</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00 ¾</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That no Salt expended upon Fishing shall bee lyable to this Excise</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That all other Goods and Merchandizes (except Bullion, Corn, Victuall, Arms, Ammunition and Spanish Wools) as wel which are already impor<g ref="char:EOLhyphen"/>ted, not having paid Excise, as which shall here<g ref="char:EOLhyphen"/>after be imported, which are not by any of the votes abovesaid to be chargeable with the Excise, other then such Goods and Merchandizes, as shal hereafter by Parliament be charged with Excise, shall pay after the rate of Five pounds <hi>per cent.</hi> to be paid by the first Buyer thereof from the Mer<g ref="char:EOLhyphen"/>chant or Importer</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>per cent.</hi>
+                     </cell>
+                  </row>
+                  <pb n="11" facs="tcp:109243:6"/>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>That all other Goods and Merchandizes to bee imported, upon which no values are set in the Book of Rates, shall pay Five pounds <hi>per cent.</hi> to be paid by the first Buyer thereof from the Mer<g ref="char:EOLhyphen"/>chant or Importer</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That the Commissioners of Excise, and their Sub-Commissioners, and Officers shall collect, re<g ref="char:EOLhyphen"/>ceive and take the Excise and Impost set and rated upon the Goods and Merchandizes above mentioned, and no other Excise or Impost upon the said Goods and merchandizes.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Resolved, &amp;c.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>That the severall Votes abovesaid, touching the Excise be forthwith printed and published, and that the same be sent to the Commissioners for the Excise: And that they and all Sub-commis<g ref="char:EOLhyphen"/>sioners, and all other Officers and Ministers of the Excise under them, bee authorised and enjoined to put the same in execution forthwith, and to collect and gather the Excise according to the said Votes, &amp; according to their former powers, and under the paines and penalties expressed in the former Ordinances and Acts of Parliament touching the Excise and New-Impost.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+               </table>
+            </p>
+            <closer>
+               <signed>Hen. Scobell, Cler. Parliamenti.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
